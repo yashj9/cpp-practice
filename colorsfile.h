@@ -2,6 +2,8 @@
 
 //header file for user-define color macros for all c/c++ programs. 
 //written by ydj. please contact back if any issue or suggestion.
+//Gitgub link to this file is as follows:
+//https://github.com/yashj9/cpp-practice/blob/master/colorsfile.h
 //Thanks for downloading my file. :)
 //for more details about this on linux go to man page of console-codes, --
 //  -- using the following command: 
