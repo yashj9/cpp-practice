@@ -85,4 +85,21 @@
 #define WHITEBU "\033[37;4;1m"
 
 
+//color pallets/presets for c++
+#define _CLRCP cout << RESETC;
+#define _BCPPO1 cout << GREENB << MAGENTABG;
+#define _BCPPI1 cout << BLUEB << MAGENTABG;
+#define _BCPPP1 cout << RESETC << CYANB;
+#define _BCPPW1 cout << RESETC << REDB;
+#define _BCPPN1 cout << YELLOW << BLACKBG;
+
+
+//color pallets/presets for c
+#define _CLRC printf(RESETC);
+#define _BCPO1 printf(GREENB); printf(MAGENTABG);
+#define _BCPI1 printf(BLUEB); printf(MAGENTABG);
+#define _BCPP1 printf(RESETC); printf(CYANB);
+#define _BCPW1 printf(RESETC); printf(REDB);
+#define _BCPN1 printf(YELLOW); printf(BLACKBG);
+
 //
